@@ -2,6 +2,7 @@
 <h1>Consulta pessoas</h1>
 <div class="col-md-6">
 <table class="table table-striped">
+    <!-- comentário para alterar página -->
     <thead>
         <tr>
             <th>Nome</th>
